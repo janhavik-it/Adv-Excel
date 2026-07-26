@@ -19,5 +19,3 @@ The main goal of this project is to analyze historical Olympics datasets to unde
 ## Project Structure
 * `olympics.xlsx` - The main Excel workbook containing raw data, processed sheets, and the final interactive dashboard.
 
----
-*Feel free to star ⭐ this repository if you find it helpful!*
